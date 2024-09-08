@@ -1,0 +1,12 @@
+.movie-card {
+  max-height: 100px;
+  display: flex;
+  flex-direction: row;
+  background-color: #494f55;
+  border: none;
+}
+
+.movie-image {
+  height: 100px;
+  padding: 0px;
+}
